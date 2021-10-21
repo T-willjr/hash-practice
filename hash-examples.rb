@@ -1,3 +1,5 @@
-car = {model => honda accord
+car = {"model" => "honda accord"
 
 }
+
+animal = {"dog" => "pepe"}
